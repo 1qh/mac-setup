@@ -1,0 +1,5 @@
+install fish
+install lsd
+install gh
+install lf
+install port_cutleaves
